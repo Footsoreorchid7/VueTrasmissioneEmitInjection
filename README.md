@@ -1,0 +1,2 @@
+# VueTrasmissioneEmitInjection
+Created with CodeSandbox
